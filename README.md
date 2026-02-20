@@ -105,7 +105,7 @@ Built a local file-sharing solution enabling secure and efficient data transfer 
 ## Contact
 
 Email: shushanttiwari2036@gmail.com  
-LinkedIn: Add your LinkedIn URL  
+LinkedIn:https://www.linkedin.com/in/shushant-tiwari
 GitHub: https://github.com/Shushant-556  
 
 ---
