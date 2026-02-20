@@ -94,11 +94,7 @@ Built a local file-sharing solution enabling secure and efficient data transfer 
 
 ---
 
-## GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shushant-556&cache_seconds=86400)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shushant-556&layout=compact&cache_seconds=86400)
 
 ## Contact
 
