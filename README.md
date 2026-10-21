@@ -22,6 +22,7 @@ Aditya University
 2023 – 2024  
 Percentage: 87%  
 
+
 **Secondary Education**  
 Kendriya Vidyalaya  
 2021 – 2022  
