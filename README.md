@@ -204,10 +204,7 @@ AI + Networking project in the Cisco VIP project context.
 </tr>
 </table>
 
----
-
-
-
+ ---
 
 ## <img src="https://img.shields.io/badge/08-VERIFIED_CERTIFICATIONS-FF1744?style=for-the-badge"/>
 
@@ -257,7 +254,7 @@ AI + Networking project in the Cisco VIP project context.
 <tr>
 <td valign="top">
 
-<a href="https://drive.google.com/file/d/1oIF-yiPkYHfAwjYQqc_TeWJvdYP8rmUD/view?usp=drivesdk">
+<a href="https://www.credly.com/badges/30df72c7-4725-4f49-b0cf-003e7d9cbf4f/whatsapp">
 <img src="https://img.shields.io/badge/DATA_SCIENCE-CERTIFICATE-FF1744?style=for-the-badge"/>
 </a>
 
@@ -278,7 +275,7 @@ AI + Networking project in the Cisco VIP project context.
 <tr>
 <td colspan="2" align="center">
 
-<a href="https://www.credly.com/badges/30df72c7-4725-4f49-b0cf-003e7d9cbf4f/whatsapp">
+<a href="https://drive.google.com/file/d/1oIF-yiPkYHfAwjYQqc_TeWJvdYP8rmUD/view?usp=drivesdk">
 <img src="https://img.shields.io/badge/ISEA-WHATSAPP_SECURITY-FF1744?style=for-the-badge"/>
 </a>
 
@@ -287,8 +284,6 @@ AI + Networking project in the Cisco VIP project context.
 </td>
 </tr>
 </table>
-
-
 
 
 ---
