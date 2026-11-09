@@ -105,14 +105,18 @@ AI + Networking project in the Cisco VIP project context.
 
 ---
 
-## 05 / GITHUB TELEMETRY
+## `05 / GITHUB TELEMETRY`
 
 <div align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shushant-556&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=070B18&title_color=43E8FF&icon_color=9B72FF&text_color=E5F2FF" alt="GitHub stats"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shushant-556&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=070B18&title_color=43E8FF&text_color=E5F2FF" alt="Top languages"/>
-<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shushant-556&theme=tokyonight&hide_border=true&background=070B18&ring=43E8FF&fire=FF8A3D&currStreakLabel=43E8FF" alt="GitHub streak"/>
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Shushant-556&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api?username=Shushant-556&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=070B18&title_color=43E8FF&icon_color=9B72FF&text_color=E5F2FF" alt="GitHub Stats"/>
+
+<img width="49%" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Shushant-556&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=070B18&title_color=43E8FF&text_color=E5F2FF" alt="Top Languages"/>
+
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shushant-556&theme=tokyonight&hide_border=true&background=070B18&ring=43E8FF&fire=FF8A3D&currStreakLabel=43E8FF" alt="GitHub Streak"/>
+
 </div>
+
 
 ---
 
