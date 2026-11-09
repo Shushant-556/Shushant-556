@@ -207,39 +207,27 @@ AI + Networking project in the Cisco VIP project context.
 ---
 
 
+
 ## <img src="https://img.shields.io/badge/08-VERIFIED_CERTIFICATIONS-FF1744?style=for-the-badge"/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Oracle-AI_Foundation_Associate-FF1744?style=for-the-badge&logo=oracle&logoColor=white"/>
+<a href="https://www.life-global.org/certificate/b895d947-6562-41eb-863e-627394b50dcd">
+<img src="https://img.shields.io/badge/HP_LIFE-AI_LEARNING-FF1744?style=for-the-badge"/>
+</a>
 
-**Oracle AI Foundation Associate**
+**HP LIFE – AI Learning**
 
 </td>
 <td width="50%" valign="top">
 
-<img src="https://img.shields.io/badge/Google-Introduction_to_GenAI-FF1744?style=for-the-badge&logo=google&logoColor=white"/>
+<a href="https://catalog-education.oracle.com/pls/certview/sharebadge?id=21A64F571F2BFCFA130C9E7101996AD367CC3CD870DD7A15D2920BCFE2C97CD3">
+<img src="https://img.shields.io/badge/ORACLE-GENERATIVE_AI_PROFESSIONAL-FF1744?style=for-the-badge"/>
+</a>
 
-**Google Introduction to Generative AI Studio**
-
-</td>
-</tr>
-
-<tr>
-<td valign="top">
-
-<img src="https://img.shields.io/badge/Tata_Forage-GenAI_Job_Simulation-FF1744?style=for-the-badge"/>
-
-**TATA Forage Generative AI Job Simulation**
-
-</td>
-<td valign="top">
-
-<img src="https://img.shields.io/badge/EduSkills-Data_Science_Specialization-FF1744?style=for-the-badge"/>
-
-**EduSkills Data Science Internship Track**
+**Oracle Generative AI Professional**
 
 </td>
 </tr>
@@ -247,20 +235,58 @@ AI + Networking project in the Cisco VIP project context.
 <tr>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/ISEA-Browser_Security-FF1744?style=for-the-badge"/>
+<a href="https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_68b91d026c83572f4f33ee7e_1756963157836_completion_certificate.pdf">
+<img src="https://img.shields.io/badge/TATA_FORAGE-GENAI_DATA_ANALYTICS-FF1744?style=for-the-badge"/>
+</a>
 
-**ISEA Browser Security Certification**
+**TATA GenAI Powered Data Analytics Job Simulation**
 
 </td>
 <td valign="top">
 
-<img src="https://img.shields.io/badge/ISEA-WhatsApp_Security-FF1744?style=for-the-badge"/>
+<a href="https://skillsoft.digitalbadges.skillsoft.com/13d20bee-8f5b-4818-8f93-aeca8e8078e4#acc.gAJz5lmL">
+<img src="https://img.shields.io/badge/SKILLSOFT-EXPLORING_BLOCKCHAIN-FF1744?style=for-the-badge"/>
+</a>
+
+**Exploring Blockchain**
+
+</td>
+</tr>
+
+<tr>
+<td valign="top">
+
+<a href="https://drive.google.com/file/d/1oIF-yiPkYHfAwjYQqc_TeWJvdYP8rmUD/view?usp=drivesdk">
+<img src="https://img.shields.io/badge/DATA_SCIENCE-CERTIFICATE-FF1744?style=for-the-badge"/>
+</a>
+
+**Introduction to Data Science**
+
+</td>
+<td valign="top">
+
+<a href="https://drive.google.com/file/d/10VDc3um2IXSO1X0Kfh-PvCjoMfmAnZEW/view?usp=drivesdk">
+<img src="https://img.shields.io/badge/HARVARD-CS_INTRODUCTION-FF1744?style=for-the-badge"/>
+</a>
+
+**Harvard University – Introduction to CS**
+
+</td>
+</tr>
+
+<tr>
+<td colspan="2" align="center">
+
+<a href="https://www.credly.com/badges/30df72c7-4725-4f49-b0cf-003e7d9cbf4f/whatsapp">
+<img src="https://img.shields.io/badge/ISEA-WHATSAPP_SECURITY-FF1744?style=for-the-badge"/>
+</a>
 
 **ISEA WhatsApp & Mobile Messaging Security**
 
 </td>
 </tr>
 </table>
+
 
 
 ---
