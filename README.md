@@ -206,25 +206,21 @@ AI + Networking project in the Cisco VIP project context.
 
 ---
 
+
 ## <img src="https://img.shields.io/badge/08-VERIFIED_CERTIFICATIONS-FF1744?style=for-the-badge"/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<a href="YOUR_ORACLE_CERTIFICATE_URL">
 <img src="https://img.shields.io/badge/Oracle-AI_Foundation_Associate-FF1744?style=for-the-badge&logo=oracle&logoColor=white"/>
-</a>
 
 **Oracle AI Foundation Associate**
 
 </td>
-
 <td width="50%" valign="top">
 
-<a href="YOUR_GOOGLE_CERTIFICATE_URL">
 <img src="https://img.shields.io/badge/Google-Introduction_to_GenAI-FF1744?style=for-the-badge&logo=google&logoColor=white"/>
-</a>
 
 **Google Introduction to Generative AI Studio**
 
@@ -234,19 +230,14 @@ AI + Networking project in the Cisco VIP project context.
 <tr>
 <td valign="top">
 
-<a href="YOUR_TATA_FORAGE_CERTIFICATE_URL">
 <img src="https://img.shields.io/badge/Tata_Forage-GenAI_Job_Simulation-FF1744?style=for-the-badge"/>
-</a>
 
 **TATA Forage Generative AI Job Simulation**
 
 </td>
-
 <td valign="top">
 
-<a href="YOUR_EDUSKILLS_CERTIFICATE_URL">
 <img src="https://img.shields.io/badge/EduSkills-Data_Science_Specialization-FF1744?style=for-the-badge"/>
-</a>
 
 **EduSkills Data Science Internship Track**
 
@@ -256,25 +247,21 @@ AI + Networking project in the Cisco VIP project context.
 <tr>
 <td valign="top">
 
-<a href="YOUR_ISEA_BROWSER_CERTIFICATE_URL">
 <img src="https://img.shields.io/badge/ISEA-Browser_Security-FF1744?style=for-the-badge"/>
-</a>
 
 **ISEA Browser Security Certification**
 
 </td>
-
 <td valign="top">
 
-<a href="YOUR_ISEA_WHATSAPP_CERTIFICATE_URL">
 <img src="https://img.shields.io/badge/ISEA-WhatsApp_Security-FF1744?style=for-the-badge"/>
-</a>
 
 **ISEA WhatsApp & Mobile Messaging Security**
 
 </td>
 </tr>
 </table>
+
 
 ---
 
