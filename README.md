@@ -263,7 +263,7 @@ AI + Networking project in the Cisco VIP project context.
 </td>
 <td valign="top">
 
-<a href="https://drive.google.com/file/d/10VDc3um2IXSO1X0Kfh-PvCjoMfmAnZEW/view?usp=drivesdk">
+<a href="https://drive.google.com/file/d/1oIF-yiPkYHfAwjYQqc_TeWJvdYP8rmUD/view?usp=drivesdk">
 <img src="https://img.shields.io/badge/HARVARD-CS_INTRODUCTION-FF1744?style=for-the-badge"/>
 </a>
 
