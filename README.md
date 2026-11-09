@@ -1,147 +1,132 @@
 <div align="center">
 
-<!-- Futuristic animated hero -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4&height=230&section=header&text=SHUSHANT%20TIWARI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DSA%20%7C%20AI%2FML%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=62&descSize=18&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,20:111827,55:1D4ED8,85:7C3AED,100:06B6D4&height=260&section=header&text=SHUSHANT%20TIWARI&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=SOFTWARE%20ENGINEERING%20%E2%80%A2%20AI%2F%20ML%20%E2%80%A2%20DSA&descAlignY=60&descSize=20&animation=fadeIn" />
 
-<a href="https://readme-typing-svg.demolab.com">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Aspiring+Software+Engineer;Building+Intelligent+Systems;Learning+DSA+%26+Problem+Solving;Exploring+AI%2FML;Turning+Ideas+Into+Useful+Products" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2500&pause=700&color=22D3EE&center=true&vCenter=true&width=750&lines=Aspiring+Software+Engineer;AI%2FML+Enthusiast;DSA+%26+Problem+Solving;Building+Ideas+Into+Products;Learning+Every+Day+%F0%9F%9A%80" alt="Animated introduction"/>
 
 <br/>
 
-<a href="https://github.com/Shushant-556">
-<img src="https://komarev.com/ghpvc/?username=Shushant-556&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
-</a>
-<a href="https://github.com/Shushant-556?tab=followers">
-<img src="https://img.shields.io/github/followers/Shushant-556?style=for-the-badge&color=2563eb&label=FOLLOWERS" alt="GitHub followers"/>
-</a>
-<a href="https://github.com/Shushant-556?tab=repositories">
-<img src="https://img.shields.io/github/stars/Shushant-556?style=for-the-badge&color=f59e0b&label=TOTAL%20STARS" alt="GitHub stars"/>
-</a>
+<a href="https://github.com/Shushant-556"><img src="https://komarev.com/ghpvc/?username=Shushant-556&style=for-the-badge&color=06B6D4&label=PROFILE+VIEWS" alt="Profile views"/></a>
+<a href="https://github.com/Shushant-556?tab=followers"><img src="https://img.shields.io/github/followers/Shushant-556?style=for-the-badge&logo=github&color=7C3AED&label=FOLLOWERS" alt="Followers"/></a>
+<a href="https://github.com/Shushant-556?tab=repositories"><img src="https://img.shields.io/badge/OPEN_TO_COLLABORATION-YES-10B981?style=for-the-badge&logo= handshake" alt="Open to collaboration"/></a>
 
 </div>
 
 ---
 
-## `whoami` — About Me
+## 👨‍💻 About Me
 
-```yaml
-name: Shushant Tiwari
-education: B.Tech — Computer Science & Engineering
-university: IILM University, Greater Noida
-graduation_year: 2028
-cgpa: 9.30
-focus:
-  - Data Structures & Algorithms
-  - Artificial Intelligence & Machine Learning
-  - Software Development
-interests:
-  - Intelligent systems
-  - Problem solving
-  - Building practical technology
-currently: Learning, experimenting, and building
-```
+<table>
+<tr><td><b>🎓 Education</b></td><td>B.Tech — Computer Science & Engineering</td></tr>
+<tr><td><b>🏛️ University</b></td><td>IILM University, Greater Noida</td></tr>
+<tr><td><b>📅 Graduation</b></td><td>2028</td></tr>
+<tr><td><b>📊 CGPA</b></td><td>9.30</td></tr>
+<tr><td><b>🧭 Focus</b></td><td>DSA · AI/ML · Software Development</td></tr>
+</table>
 
-I'm a Computer Science undergraduate interested in the intersection of **algorithmic problem-solving, AI/ML, and software engineering**. I enjoy understanding how systems work and translating ideas into useful applications.
+I am a Computer Science undergraduate passionate about **algorithmic problem-solving, artificial intelligence, and building useful software**. I enjoy exploring how technology works and turning ideas into practical applications.
 
-> Always learning. Always building. Always improving.
+> **Think deeply. Build boldly. Keep improving.**
 
 ---
 
-## `tech_stack` — Technical Arsenal
+## ⚡ Technical Arsenal
 
 <div align="center">
 
 ### Core Focus
-<img src="https://img.shields.io/badge/DSA-Problem_Solving-2563EB?style=for-the-badge" />
-<img src="https://img.shields.io/badge/AI-Artificial_Intelligence-7C3AED?style=for-the-badge" />
-<img src="https://img.shields.io/badge/ML-Machine_Learning-0891B2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Software-Development-059669?style=for-the-badge" />
+<img src="https://img.shields.io/badge/DSA-Problem_Solving-2563EB?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-Artificial_Intelligence-7C3AED?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/ML-Machine_Learning-0891B2?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/Software-Development-059669?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 
-### Tools & Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,linux&perline=6" />
+### Languages & Tools
+<img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,linux&theme=dark&perline=6" alt="Python, Java, C++, Git, GitHub, Linux"/>
 
 ### Exploring
-<img src="https://img.shields.io/badge/LLMs-Large_Language_Models-412991?style=flat-square" />
-<img src="https://img.shields.io/badge/Data_Science-Analysis-0EA5E9?style=flat-square" />
-<img src="https://img.shields.io/badge/Blockchain-Technology-7C3AED?style=flat-square" />
-<img src="https://img.shields.io/badge/Cybersecurity-Security-DC2626?style=flat-square" />
-<img src="https://img.shields.io/badge/Oracle_Cloud-Infrastructure-F80000?style=flat-square" />
+<img src="https://img.shields.io/badge/LLMs-Large_Language_Models-412991?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data_Science-Analytics-0EA5E9?style=flat-square"/>
+<img src="https://img.shields.io/badge/Blockchain-Technology-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Cybersecurity-Security-DC2626?style=flat-square"/>
+<img src="https://img.shields.io/badge/Oracle_Cloud-Infrastructure-F80000?style=flat-square"/>
 
 </div>
 
 ---
 
-## `projects` — Selected Builds
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="50%">
-<h3 align="center">🌦️ Hyperlocal Weather Forecasting</h3>
-<div align="center">
-<a href="https://github.com/Shushant-556" target="_blank">
-<img src="https://img.shields.io/badge/ML-Weather%20%26%20Air%20Quality-0EA5E9?style=for-the-badge"/>
-</a>
-</div>
-<p>Machine-learning pipeline for hyperlocal weather and air-pollution forecasting in Delhi, including temperature, PM2.5, PM10, fog detection, and extreme-event classification.</p>
-<p align="center"><strong>Python · Pandas · NumPy · ML</strong></p>
+<td width="50%" valign="top">
+
+### 🌦️ Hyperlocal Weather Forecasting
+**Machine Learning · Weather · Air Quality**
+
+- Forecasting pipeline for Delhi weather and air pollution.
+- Temperature, PM2.5 and PM10 prediction.
+- Fog detection using meteorological thresholds.
+- Extreme weather and pollution-event classification.
+
+**Stack:** Python · Pandas · NumPy · ML
+
 </td>
-<td width="50%">
-<h3 align="center">🛍️ PlaceWise AI</h3>
-<div align="center">
-<a href="https://github.com/Shushant-556" target="_blank">
-<img src="https://img.shields.io/badge/AI-Product%20Visualization-7C3AED?style=for-the-badge"/>
-</a>
-</div>
-<p>AI-powered product visualization concept combining live camera visualization, 3D models, and placement assistance so shoppers can evaluate products in their own space.</p>
-<p align="center"><strong>AI · 3D · Product Visualization</strong></p>
+<td width="50%" valign="top">
+
+### 🛍️ PlaceWise AI
+**AI-Powered Product Visualization**
+
+- Visualize products inside real environments before purchase.
+- Combines camera visualization, 3D models and AI placement assistance.
+- Helps evaluate fit, appearance and available space.
+
+**Focus:** AI · 3D · Product Experience
+
 </td>
 </tr>
 <tr>
-<td colspan="2">
-<h3 align="center">🌐 NetSage AI</h3>
-<p align="center">AI and networking project developed in the Cisco VIP project context.</p>
-<p align="center"><a href="https://github.com/Shushant-556/NetSage-AI"><img src="https://img.shields.io/badge/Explore%20Repository-NetSage%20AI-06B6D4?style=for-the-badge&logo=github"/></a></p>
+<td colspan="2" align="center">
+
+### 🌐 NetSage AI
+AI + Networking project in the Cisco VIP project context.
+
+<a href="https://github.com/Shushant-556/NetSage-AI"><img src="https://img.shields.io/badge/Explore_NetSage_AI-Repository-06B6D4?style=for-the-badge&logo=github"/></a>
+
 </td>
 </tr>
 </table>
 
 <div align="center">
-
-<a href="https://github.com/Shushant-556?tab=repositories">
-<img src="https://img.shields.io/badge/Explore-All%20Repositories-111827?style=for-the-badge&logo=github" />
-</a>
-
+<a href="https://github.com/Shushant-556?tab=repositories"><img src="https://img.shields.io/badge/VIEW_ALL_PROJECTS-111827?style=for-the-badge&logo=github"/></a>
 </div>
 
 ---
 
-## `leetcode` — Problem Solving
+## 🧠 LeetCode — Problem Solving
 
 <div align="center">
 
 <a href="https://leetcode.com/u/shushant_556/">
-<img src="https://leetcard.jacoblin.cool/shushant_556?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats and heatmap"/>
+<img src="https://leetcard.jacoblin.cool/shushant_556?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats and submission heatmap"/>
 </a>
 
 <br/>
 
-<a href="https://leetcode.com/u/shushant_556/">
-<img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
+<a href="https://leetcode.com/u/shushant_556"><img src="https://img.shields.io/badge/OPEN_LEETCODE_PROFILE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
 
 </div>
 
 ---
 
-## `github_stats` — GitHub Analytics
+## 📈 GitHub Analytics
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=Shushant-556&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shushant-556&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+<!-- Stats cards are third-party hosted; if one provider is down, the other cards can still render. -->
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Shushant-556&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=7C3AED&text_color=E2E8F0" alt="GitHub statistics"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shushant-556&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0" alt="Most used languages"/>
 
-<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shushant-556&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
+<img width="90%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shushant-556&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=F97316&currStreakLabel=22D3EE" alt="GitHub streak"/>
 
 <img width="95%" src="https://github-profile-trophy.vercel.app/?username=Shushant-556&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
 
@@ -149,50 +134,52 @@ I'm a Computer Science undergraduate interested in the intersection of **algorit
 
 ---
 
-## `contributions` — Contribution Activity
+## 🐍 Contribution Activity
 
 <div align="center">
 
-<!-- Snake animation is generated by the GitHub Action in .github/workflows/snake.yml -->
-<img src="https://raw.githubusercontent.com/Shushant-556/Shushant-556/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
+<img width="100%" src="https://raw.githubusercontent.com/Shushant-556/Shushant-556/output/github-contribution-grid-snake.svg" alt="Animated contribution snake"/>
 
 </div>
 
 ---
 
-## `experience` — Beyond the Code
+## 💼 Experience
 
-**Campus Ambassador — IIT Delhi Rendezvous**  
-*September 2025 – October 2025*
+### Campus Ambassador — IIT Delhi Rendezvous
+**September 2025 – October 2025**
 - Represented IIT Delhi Rendezvous events and initiatives through online and offline student engagement.
 
-**Intern — She Can Foundation**  
-*September 2025*
-- Supported organizational initiatives, daily operations, and fundraising efforts.
+### Intern — She Can Foundation
+**September 2025**
+- Supported organizational initiatives, daily operations and fundraising efforts.
 
 ---
 
-## `certifications` — Learning Milestones
+## 🎓 Certifications & Credentials
 
-- Oracle Generative AI Professional
-- HP LIFE — AI Learning
-- TATA — GenAI Powered Data Analytics Job Simulation
-- Exploring Blockchain
-- Introduction to Data Science
-- Harvard University — Introduction to Computer Science
+> Replace each `CERTIFICATE_URL_*` link below with the actual credential URL. The resume lists certificate names but did not include their individual URLs, so I have not invented them.
 
----
-
-## `currently_working_on`
-
-- Strengthening DSA and algorithmic thinking
-- Exploring AI/ML concepts and applications
-- Improving software engineering fundamentals
-- Building practical projects and learning by shipping
+- [HP LIFE — AI Learning](CERTIFICATE_URL_HP_LIFE)
+- [Oracle — Generative AI Professional](CERTIFICATE_URL_ORACLE)
+- [TATA — GenAI Powered Data Analytics Job Simulation](CERTIFICATE_URL_TATA)
+- [Exploring Blockchain](CERTIFICATE_URL_BLOCKCHAIN)
+- [Introduction to Data Science](CERTIFICATE_URL_DATA_SCIENCE)
+- [Harvard University — Introduction to Computer Science](CERTIFICATE_URL_HARVARD)
 
 ---
 
-## `connect` — Let's Connect
+## 🎯 Current Focus
+
+- 📘 Mastering Data Structures & Algorithms
+- 🤖 Exploring AI/ML and intelligent applications
+- 💻 Improving software engineering fundamentals
+- 🧪 Building practical projects
+- 🌱 Learning continuously and sharing progress
+
+---
+
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -207,6 +194,6 @@ I'm a Computer Science undergraduate interested in the intersection of **algorit
 
 ### *“The best way to predict the future is to build it.”*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:020617&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:2563EB,70:7C3AED,100:020617&height=150&section=footer&animation=fadeIn"/>
 
 </div>
