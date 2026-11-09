@@ -128,37 +128,143 @@ AI + Networking project in the Cisco VIP project context.
 
 ---
 
-## 07 / EXPERIENCE
 
-### Campus Ambassador — IIT Delhi Rendezvous
-`September 2025 – October 2025`
-- Represented IIT Delhi Rendezvous events and initiatives through online and offline student engagement.
+## 🔴 EXPERIENCE & LEADERSHIP
 
-### Intern — She Can Foundation
-`September 2025`
-- Supported organizational initiatives, daily operations and fundraising efforts.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎯 Campus Ambassador
+**IIT Delhi — Rendezvous**
+
+<code>September 2025 – October 2025</code>
+
+- Represented IIT Delhi Rendezvous initiatives.
+- Engaged students through online and offline activities.
+
+**Focus:** Communication · Outreach · Leadership
+
+</td>
+<td width="50%" valign="top">
+
+### 🤝 Internship
+**She Can Foundation**
+
+<code>September 2025</code>
+
+- Supported organizational initiatives.
+- Assisted daily operations and fundraising efforts.
+
+**Focus:** Social Impact · Teamwork
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 08 / CERTIFICATIONS
+## 🔴 VERIFIED CERTIFICATIONS
 
-> Your resume lists certificate names but not actual credential URLs. Replace placeholders below with verified links to make each certificate clickable.
+<table>
+<tr>
+<td width="50%">
 
-- [HP LIFE — AI Learning](CERTIFICATE_URL_HP_LIFE)
-- [Oracle — Generative AI Professional](CERTIFICATE_URL_ORACLE)
-- [TATA — GenAI Powered Data Analytics Job Simulation](CERTIFICATE_URL_TATA)
-- [Exploring Blockchain](CERTIFICATE_URL_BLOCKCHAIN)
-- [Introduction to Data Science](CERTIFICATE_URL_DATA_SCIENCE)
-- [Harvard University — Introduction to Computer Science](CERTIFICATE_URL_HARVARD)
+<img src="https://img.shields.io/badge/Oracle-AI_Foundation_Associate-FF0000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+**Oracle AI Foundation Associate**
+
+</td>
+<td width="50%">
+
+<img src="https://img.shields.io/badge/Google-Introduction_to_GenAI-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+**Google Introduction to Generative AI Studio**
+
+</td>
+</tr>
+<tr>
+<td>
+
+<img src="https://img.shields.io/badge/Tata_Forage-GenAI_Job_Simulation-0052CC?style=for-the-badge"/>
+
+**TATA Forage Generative AI Job Simulation**
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/EduSkills-Data_Science_Specialization-10B981?style=for-the-badge"/>
+
+**EduSkills Data Science Internship Track**
+
+</td>
+</tr>
+<tr>
+<td>
+
+<img src="https://img.shields.io/badge/ISEA-Browser_Security-6366F1?style=for-the-badge"/>
+
+**ISEA Browser Security Certification**
+
+</td>
+<td>
+
+<img src="https://img.shields.io/badge/ISEA-WhatsApp_Security-22C55E?style=for-the-badge"/>
+
+**ISEA WhatsApp & Mobile Messaging Security**
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 09 / NOW BUILDING
+## 🔴 NOW BUILDING & LEARNING
 
-- **DSA:** strengthening fundamentals and problem-solving patterns
-- **AI/ML:** exploring intelligent applications
-- **Engineering:** improving code quality and software fundamentals
-- **Projects:** building practical things and learning by shipping
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 DSA & Competitive Programming
+
+- Mastering Binary Search and Arrays.
+- Advancing toward Trees, Graphs and DP.
+- Improving problem-solving efficiency.
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AI / ML Engineering
+
+- Exploring machine learning workflows.
+- Building intelligent applications.
+- Experimenting with AI integrations.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Software Development
+
+- Writing cleaner, maintainable code.
+- Improving software engineering fundamentals.
+- Developing practical projects.
+
+</td>
+<td width="50%" valign="top">
+
+### 🚀 Future Goals
+
+- Become a strong software engineer.
+- Build impactful technology.
+- Combine AI with real-world applications.
+
+</td>
+</tr>
+</table>
+
+
 
 ---
 
