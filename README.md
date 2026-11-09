@@ -1,138 +1,212 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Shushant Tiwari</h1>
-<h3 align="center">A passionate developer from India</h3>
+<!-- Futuristic animated hero -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:0F172A,70:1D4ED8,100:06B6D4&height=230&section=header&text=SHUSHANT%20TIWARI&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=DSA%20%7C%20AI%2FML%20%7C%20SOFTWARE%20DEVELOPMENT&descAlignY=62&descSize=18&animation=fadeIn" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Shushant-556&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Shushant-556" /> </p>
+<a href="https://readme-typing-svg.demolab.com">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=720&lines=Aspiring+Software+Engineer;Building+Intelligent+Systems;Learning+DSA+%26+Problem+Solving;Exploring+AI%2FML;Turning+Ideas+Into+Useful+Products" alt="Typing SVG" />
+</a>
 
-## 👦🏻 About me
+<br/>
 
-- 🌱 I’m currently working on **React** and **Nodejs** projects
-- 👯 I’m looking to collaborate on some challenging **Flutter** projects
+<a href="https://github.com/Shushant-556">
+<img src="https://komarev.com/ghpvc/?username=Shushant-556&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS" alt="Profile views"/>
+</a>
+<a href="https://github.com/Shushant-556?tab=followers">
+<img src="https://img.shields.io/github/followers/Shushant-556?style=for-the-badge&color=2563eb&label=FOLLOWERS" alt="GitHub followers"/>
+</a>
+<a href="https://github.com/Shushant-556?tab=repositories">
+<img src="https://img.shields.io/github/stars/Shushant-556?style=for-the-badge&color=f59e0b&label=TOTAL%20STARS" alt="GitHub stars"/>
+</a>
 
-## 💻 Technologies I Work With
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NextJS](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-<details>
-  <summary>See More</summary>
-  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![JSON](https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
-![MonogDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![NPM](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white)
-![ExpressJS](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![SASS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![ESLint](https://img.shields.io/badge/eslint-3A33D1?style=for-the-badge&logo=eslint&logoColor=white)
-![Prettier](https://img.shields.io/badge/prettier-1A2C34?style=for-the-badge&logo=prettier&logoColor=F7BA3E)
-  
-</details>
-
-## 📱 Apps I use
-
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
-![Todoist](https://img.shields.io/badge/Todoist-E44332?style=for-the-badge&logo=todoist&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![CloudFlare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Google Analytics](https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)
-
-<details>
-  <summary>See More</summary>
-
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Powerpoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft Sharepoint](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)
-![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
-![Libre Office](https://img.shields.io/badge/LibreOffice-18A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white)
-![Adobe After Effects](https://img.shields.io/badge/Adobe-After%20Effects-CF96FD?style=for-the-badge&logo=Adobe-After-Effects&labelColor=393665&logoWidth=15)
-![Adobe Premiere Pro](https://img.shields.io/badge/Adobe-Premiere%20Pro-9999FF?style=for-the-badge&logo=Adobe-Premiere%20Pro&labelColor=2f2f5b&logoWidth=15)
-![GIMP](https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white)
-![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)
-![Udacity](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=#5FCFEE)
-![freeCodeCamp](https://img.shields.io/badge/free%20code%20camp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white0)
-![SkillShare](https://img.shields.io/badge/skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=white)
-![Exercism](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)
-![Gitbook](https://img.shields.io/badge/GitBook-7B36ED?style=for-the-badge&logo=gitbook&logoColor=white)
-![Gitkraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white)
-![NextCloud](https://img.shields.io/badge/Nextcloud-0082C9?style=for-the-badge&logo=Nextcloud&logoColor=white)
-![Google Colaboratory](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-  
-</details>
-  
-## ⌨️ My Setup
-  
-![Windows Terminal](https://img.shields.io/badge/windows%20terminal-4D4D4D?style=for-the-badge&logo=windows%20terminal&logoColor=white)
-![Oh My Zsh](https://img.shields.io/badge/oh_my_zsh-1A2C34?style=for-the-badge&logo=ohmyzsh&logoColor=white)
-![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-![NVIDIA GeForce GTX1050](https://img.shields.io/badge/NVIDIA-GeForceGTX1050-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
-![Intel Core i5 8300H](https://img.shields.io/badge/Intel-Core_i5_8300H-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-![Asus Vivobook Gaming](https://img.shields.io/badge/Asus-Vivobook-0096D6?style=for-the-badge&logo=asus&logoColor=white)
-![Microsoft Edge](https://img.shields.io/badge/Microsoft_Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Codesandbox](https://img.shields.io/badge/Codesandbox-000000?style=for-the-badge&logo=CodeSandbox&logoColor=white)
-
-## 😁 Hobbies
-
-![Gymming](https://img.shields.io/badge/%F0%9F%92%AA%F0%9F%8F%BB%20Gymming-0052CC?style=for-the-badge)
-![Reading books](https://img.shields.io/badge/%F0%9F%93%96%20Reading_Books-4EAA25?style=for-the-badge)
-![Playing keyboard](https://img.shields.io/badge/%F0%9F%8E%B9%20Playing_keyboard-F24E1E?style=for-the-badge)
-
-## 🫱🏼‍🫲🏼 Connect with me
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thekshitizkamal)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shushant-556)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube)](https://www.youtube.com)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skilite007@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@skilite007)
-
-## 🏆 My github trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=Shushant-556&column=-1)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 📊 Github stats
-<div style="display:flex;height:100px">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shushant-556&count_private=true&show_icons=true&locale=en&layout=compact" alt="Shushant-556" width="25%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shushant-556&" alt="Shushant-556" width="35%"/>
-<img src="https://github-readme-stats.vercel.app/api?username=Shushant-556&show_icons=true&locale=en" alt="Shushant-556" width="33%"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-</picture>
+---
 
-## :zap: Recent Activity
+## `whoami` — About Me
 
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#127](https://github.com/gjtorikian/markdowntutorial.com/issues/127) in [gjtorikian/markdowntutorial.com](https://github.com/gjtorikian/markdowntutorial.com)
-2. ❗ Opened issue [#5](https://github.com/Shushant-556/portfolio-v1/issues/5) in [Shushant-556/portfolio-v1](https://github.com/Shushant-556/portfolio-v1)
-<!--END_SECTION:activity-->
+```yaml
+name: Shushant Tiwari
+education: B.Tech — Computer Science & Engineering
+university: IILM University, Greater Noida
+graduation_year: 2028
+cgpa: 9.30
+focus:
+  - Data Structures & Algorithms
+  - Artificial Intelligence & Machine Learning
+  - Software Development
+interests:
+  - Intelligent systems
+  - Problem solving
+  - Building practical technology
+currently: Learning, experimenting, and building
+```
+
+I'm a Computer Science undergraduate interested in the intersection of **algorithmic problem-solving, AI/ML, and software engineering**. I enjoy understanding how systems work and translating ideas into useful applications.
+
+> Always learning. Always building. Always improving.
+
+---
+
+## `tech_stack` — Technical Arsenal
+
+<div align="center">
+
+### Core Focus
+<img src="https://img.shields.io/badge/DSA-Problem_Solving-2563EB?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI-Artificial_Intelligence-7C3AED?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ML-Machine_Learning-0891B2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Software-Development-059669?style=for-the-badge" />
+
+### Tools & Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,git,github,linux&perline=6" />
+
+### Exploring
+<img src="https://img.shields.io/badge/LLMs-Large_Language_Models-412991?style=flat-square" />
+<img src="https://img.shields.io/badge/Data_Science-Analysis-0EA5E9?style=flat-square" />
+<img src="https://img.shields.io/badge/Blockchain-Technology-7C3AED?style=flat-square" />
+<img src="https://img.shields.io/badge/Cybersecurity-Security-DC2626?style=flat-square" />
+<img src="https://img.shields.io/badge/Oracle_Cloud-Infrastructure-F80000?style=flat-square" />
+
+</div>
+
+---
+
+## `projects` — Selected Builds
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">🌦️ Hyperlocal Weather Forecasting</h3>
+<div align="center">
+<a href="https://github.com/Shushant-556" target="_blank">
+<img src="https://img.shields.io/badge/ML-Weather%20%26%20Air%20Quality-0EA5E9?style=for-the-badge"/>
+</a>
+</div>
+<p>Machine-learning pipeline for hyperlocal weather and air-pollution forecasting in Delhi, including temperature, PM2.5, PM10, fog detection, and extreme-event classification.</p>
+<p align="center"><strong>Python · Pandas · NumPy · ML</strong></p>
+</td>
+<td width="50%">
+<h3 align="center">🛍️ PlaceWise AI</h3>
+<div align="center">
+<a href="https://github.com/Shushant-556" target="_blank">
+<img src="https://img.shields.io/badge/AI-Product%20Visualization-7C3AED?style=for-the-badge"/>
+</a>
+</div>
+<p>AI-powered product visualization concept combining live camera visualization, 3D models, and placement assistance so shoppers can evaluate products in their own space.</p>
+<p align="center"><strong>AI · 3D · Product Visualization</strong></p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<h3 align="center">🌐 NetSage AI</h3>
+<p align="center">AI and networking project developed in the Cisco VIP project context.</p>
+<p align="center"><a href="https://github.com/Shushant-556/NetSage-AI"><img src="https://img.shields.io/badge/Explore%20Repository-NetSage%20AI-06B6D4?style=for-the-badge&logo=github"/></a></p>
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/Shushant-556?tab=repositories">
+<img src="https://img.shields.io/badge/Explore-All%20Repositories-111827?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+## `leetcode` — Problem Solving
+
+<div align="center">
+
+<a href="https://leetcode.com/u/shushant_556/">
+<img src="https://leetcard.jacoblin.cool/shushant_556?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode stats and heatmap"/>
+</a>
+
+<br/>
+
+<a href="https://leetcode.com/u/shushant_556/">
+<img src="https://img.shields.io/badge/LeetCode-Visit_Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+</div>
+
+---
+
+## `github_stats` — GitHub Analytics
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=Shushant-556&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shushant-556&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top languages"/>
+
+<img width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=Shushant-556&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub streak"/>
+
+<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Shushant-556&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" alt="GitHub trophies"/>
+
+</div>
+
+---
+
+## `contributions` — Contribution Activity
+
+<div align="center">
+
+<!-- Snake animation is generated by the GitHub Action in .github/workflows/snake.yml -->
+<img src="https://raw.githubusercontent.com/Shushant-556/Shushant-556/output/github-contribution-grid-snake.svg" alt="Contribution snake animation"/>
+
+</div>
+
+---
+
+## `experience` — Beyond the Code
+
+**Campus Ambassador — IIT Delhi Rendezvous**  
+*September 2025 – October 2025*
+- Represented IIT Delhi Rendezvous events and initiatives through online and offline student engagement.
+
+**Intern — She Can Foundation**  
+*September 2025*
+- Supported organizational initiatives, daily operations, and fundraising efforts.
+
+---
+
+## `certifications` — Learning Milestones
+
+- Oracle Generative AI Professional
+- HP LIFE — AI Learning
+- TATA — GenAI Powered Data Analytics Job Simulation
+- Exploring Blockchain
+- Introduction to Data Science
+- Harvard University — Introduction to Computer Science
+
+---
+
+## `currently_working_on`
+
+- Strengthening DSA and algorithmic thinking
+- Exploring AI/ML concepts and applications
+- Improving software engineering fundamentals
+- Building practical projects and learning by shipping
+
+---
+
+## `connect` — Let's Connect
+
+<div align="center">
+
+<a href="https://github.com/Shushant-556"><img src="https://img.shields.io/badge/GitHub-Shushant--556-181717?style=for-the-badge&logo=github"/></a>
+<a href="https://www.linkedin.com/in/shushant-tiwari"><img src="https://img.shields.io/badge/LinkedIn-Shushant_Tiwari-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://leetcode.com/u/shushant_556/"><img src="https://img.shields.io/badge/LeetCode-Shushant__556-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+<a href="mailto:shushanttiwari2036@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+
+</div>
+
+<div align="center">
+
+### *“The best way to predict the future is to build it.”*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:1D4ED8,100:020617&height=120&section=footer"/>
+
+</div>
