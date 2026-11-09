@@ -208,6 +208,7 @@ AI + Networking project in the Cisco VIP project context.
 
 
 
+
 ## <img src="https://img.shields.io/badge/08-VERIFIED_CERTIFICATIONS-FF1744?style=for-the-badge"/>
 
 <table>
@@ -286,6 +287,7 @@ AI + Networking project in the Cisco VIP project context.
 </td>
 </tr>
 </table>
+
 
 
 
