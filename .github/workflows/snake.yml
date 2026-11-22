@@ -1,18 +1,29 @@
+
 name: Generate contribution snake
 
 on:
   schedule:
     - cron: "0 0 * * *"
+
   workflow_dispatch:
 
+  push:
+    branches:
+      - main
+
 permissions:
-  contents: write
+  contents: read
 
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    permissions:
+      contents: write
+
     steps:
-      - name: Generate snake
+      - name: Generate contribution snake
         uses: Platane/snk@v3
         with:
           github_user_name: Shushant-556
